@@ -9,7 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - href: CV.qmd
+        text: CV
+        
 format:
   html:
     theme: cosmo
